@@ -14,5 +14,4 @@
   - [AI 보안요원](https://github.com/Liebe97/AI_test/blob/school/%EA%B5%AC%EA%B8%80%EC%9D%B4%EB%AF%B8%EC%A7%80%EA%B2%80%EC%83%89.ipynb)
 
   ## 4. 자율주행 분야
-  - 
-  - 
+  - [자율주행 자동차](https://github.com/Liebe97/AI_test/blob/school/%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%9E%90%EB%8F%99%EC%B0%A8.ipynb)
