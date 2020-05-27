@@ -2,8 +2,8 @@
 
   ## 1. 언어 분야 제품 및 서비스
 
-  - 
-  - 
+  - [인공지능 번역기 파파고](https://github.com/Liebe97/AI_test/blob/school/%ED%8C%8C%ED%8C%8C%EA%B3%A0.ipynb)
+  - [인공지능 챗봇](https://github.com/Liebe97/AI_test/blob/school/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EC%B1%97%EB%B4%87.ipynb)
 
   ## 2. 음성 분야 제품 및 서비스
 
