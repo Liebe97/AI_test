@@ -11,7 +11,7 @@
 
   ## 3. 이미지 분야 제품 및 서비스
   - [구글 AI 이미지검색](https://github.com/Liebe97/AI_test/blob/school/%EA%B5%AC%EA%B8%80%EC%9D%B4%EB%AF%B8%EC%A7%80%EA%B2%80%EC%83%89.ipynb)
-  - 
+  - [AI 보안요원](https://github.com/Liebe97/AI_test/blob/school/%EA%B5%AC%EA%B8%80%EC%9D%B4%EB%AF%B8%EC%A7%80%EA%B2%80%EC%83%89.ipynb)
 
   ## 4. 자율주행 분야 제품 및 서비스
   - 
